@@ -156,6 +156,18 @@ Full write-up: reports/executive_summary.md
 
 ---
 
+## Interactive Dashboard
+
+Built in Power BI with 4 pages: Fraud Overview, Risk Factor Deep Dive, Capacity & Impact,
+and Recommendation — using a red/orange/teal risk-based color system throughout.
+
+![Fraud Overview](images/dashboard_01_overview.png)
+![Recommendation](images/dashboard_04_recommendation.png)
+
+*(Full .pbix file: `dashboard/fraud_dashboard.pbix`)*
+
+---
+
 ## Limitations
 
 - 1994-1996 data - fraud patterns, claim costs, and policy structures have likely changed
